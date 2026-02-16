@@ -1,2 +1,1 @@
-# github-copilot-certification-notes
-github-copilot-certification-notes
+## GitHub Copilot Certified  ![Certificate](./assets/GitHub-Copilot-Certificate.pdf)
