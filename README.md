@@ -1,1 +1,1 @@
-## GitHub Copilot Certified  ![Certificate](./assets/GitHub-Copilot-Certificate.pdf)
+## View my GitHub Copilot Certificate here  ![Certificate](./assets/GitHub-Copilot-Certificate.pdf)
